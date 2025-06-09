@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I speak 4 languages fluently, learning my 5th**
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67fd35336057cdb1a2a62a56?variant=dark&roadmaps=game-developer%2Cpython%2Ccomputer-science%2Ccpp" alt="roadmap.sh"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anelya-jumasheva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anelya-jumasheva/" height="30" width="40" /></a>
