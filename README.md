@@ -13,7 +13,7 @@
 
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67fd35336057cdb1a2a62a56?variant=dark&roadmaps=game-developer%2Cpython%2Ccomputer-science%2Ccpp" alt="roadmap.sh"/></a>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5626705" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/cosima355.png" alt="Your Image Badge" />
 
 
 # 📊 GitHub Stats:
@@ -26,9 +26,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=elya-jumasheva&limit=5&theme=noctis_minimus&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=elya355&icon=0&color=0)](https://visitcount.itsvg.in)
