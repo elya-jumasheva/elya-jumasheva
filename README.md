@@ -5,12 +5,6 @@
 
 - 🌱 I’m currently learning **Cybersecurity**
 
-- 🤝 I’m looking for help with **new work experiences**
-
-- 👨‍💻 All of my projects are available at [https://github.com/elya355](https://github.com/elya355)
-
-- 💬 Ask me about **my game projects**
-
 - 📫 How to reach me **elyajumasheva@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/anelya-jumasheva](www.linkedin.com/in/anelya-jumasheva)
