@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anelya</h1>
-<h4 align="center">AKA Cosima355</h4>
+<h4 align="center">AKA Elya or Cosima355</h4>
 <h3 align="center">A creative software developer and cybersecurity specialist.</h3>
 
 
