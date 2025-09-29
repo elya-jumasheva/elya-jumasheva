@@ -6,6 +6,7 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/cosima355.png" alt="Your Image Badge" />
 
 
+
 - 🔭 I’m currently working on **ShellSpark: a terminal-based app that teaches computing**
 
 - 🌱 I’m currently learning **Cybersecurity**
